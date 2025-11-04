@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=GameList XML Generator
-Comment=Generate gamelist.xml files for ROM collections
-Exec=/home/aklabunde/work/sources/gamelist_gen/gamelist_generator.py
-Icon=applications-games
-Terminal=false
-Type=Application
-Categories=Game;Utility;
